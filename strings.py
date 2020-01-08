@@ -1,0 +1,10 @@
+mystr ="ankit is good boy?"
+print(len(mystr))
+print(mystr[2])
+print(mystr[0:10])
+print(mystr[0:10:2])
+print(mystr[-4:-5])
+print(mystr[-5:-8:-1])
+print(mystr[::-1])
+print(mystr[::-2])
+print(mystr[5:3:-1])
